@@ -30,5 +30,5 @@ Forecasted values were compared against actual data using statistical evaluation
 # Apache Hadoop
 Apache Hadoop was utilized for storage the datasets. It is an open-source software framework designed for the distributed storage and allows to process large datasets across clusters. Hadoop Distributed File System (HDFS) was used to manage storage, enabling efficient handling of big data (Judge, 2012). Additionally, Yet Another Resource Negotiator (YARN), was employed to manage computing resources. YARN allows multiple data processing engines like interactive SQL, real-time streaming and batch processing to run and process data stored in HDFS (Murthy, 2014).
 
-<img width="844" height="377" alt="image" src="[https://github.com/user-attachments/assets/4df3eb27-5b24-49d6-a3e1-28aba7f8efca](https://github.com/eriostre/Stock-Market-Forecasting-Using-Twitter-as-Exogenous-Data/blob/main/images/Picture1.png)" />
+<img width="844" height="377" alt="image" src="https://github.com/eriostre/Stock-Market-Forecasting-Using-Twitter-as-Exogenous-Data/blob/main/images/Picture1.png" />
 
